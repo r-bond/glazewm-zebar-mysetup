@@ -1,10 +1,9 @@
 # Glazewm & Zebar
 ## with-glazewm
 My modified <b>with-glazewm</b> theme of Glazewm and Zebar tiling for Windows.
-
 <br>
 
-![zebar_2025-05-31.png](./zebar_2025-05-31.png)
+![zebar1.1_2025-06-01.png](./zebar1.1_2025-06-01.png)
 
 <br>
 
