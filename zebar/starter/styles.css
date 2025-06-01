@@ -66,6 +66,7 @@ body,
 .cpu,
 .keyboard,
 .audio,
+.date,
 .battery {
   margin-right: 10px;
 }
