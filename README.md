@@ -3,7 +3,7 @@
 
 My modified <b>with-glazewm</b> theme of Glazewm and Zebar tiling for Windows.
 
-![zebar1.1_2025-06-01.png](./Screenshot_2025-06-01.png)
+![zebar1.1_2025-06-01.png](./v1.1_2025-06-01.png)
 <br>
 
 ```
@@ -39,4 +39,4 @@ v.1.1
 
 ## Bugs
 * Muted volume still have number (no output muted exist)
-* Empty "Home"(9) desktop doesn't dissapear sometimes 
+* Empty desktop doesn't dissapear sometimes 
